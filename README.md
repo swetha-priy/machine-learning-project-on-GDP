@@ -143,15 +143,14 @@ Deploy model using Flask / FastAPI
 
 Build dashboard using Streamlit
 
-🤝 Contributors
+team memebers 
+* swetha priya
+* Nandini 
+* Mokshith
+* Kethan
+* Uday
 
-swetha priya
-Nandini 
-Mokshith
-Kethan
-Uday
 
-(Add team members if any)
 
 📜 License
 
